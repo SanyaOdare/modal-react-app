@@ -5,9 +5,9 @@ function App() {
   return (
     <div>
       <h1>My Todos</h1>
-      <Todo text={"Basic React"} />
-      <Todo text="Min React" />
-      <Todo text="Max React" />
+      <Todo text='Basic Task' />
+      <Todo text='Semi Basic Task' />
+      <Todo text='Complex Task' />      
     </div>
   );
 }
